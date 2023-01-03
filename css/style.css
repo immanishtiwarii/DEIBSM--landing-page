@@ -1,0 +1,275 @@
+body {
+  font-family: "Montserrat",sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold",sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* title section */
+
+.heading1 h1  {
+  text-align: center;
+  font-weight: 600;
+  font-size: 45px;
+  /* line-height: 1.4; */
+}
+
+
+#title {
+  background-color: #ff8961;
+}
+
+.brand img {
+  width: 500px;
+  height: auto;
+  margin-top: 3rem;
+  margin-left: -1.5rem;
+}
+
+.title-img img {
+  width: 100%;
+  margin-top: .6rem;
+
+
+}
+
+/* title2 section */
+
+
+#title2 {
+  background-color: #1c1614;
+  padding-bottom: 10rem;
+
+}
+
+.heading2 h1 {
+  padding-top: 2rem;
+  font-weight: 600;
+  line-height: 5rem;
+  margin-left: 4rem;
+  margin-top: 5rem;
+}
+
+
+.title2-para  {
+  color: #ffffff;
+  margin-left: 4.5rem;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 53px;
+
+}
+
+.plain-img {
+  width: 19%;
+  margin-left: 20rem;
+  margin-top: 2rem;
+}
+
+
+
+
+/* Service */
+
+#service {
+  background-color: #efefef;
+  padding-bottom: 4.5rem;
+
+
+}
+
+.heading3 h1 {
+  text-align: center;
+  padding-top: 2rem;
+  font-weight: 600;
+  line-height: 5rem;
+}
+
+.heading6 h1 {
+  text-align: center;
+  padding-top: 1.5rem;
+  font-weight: 600;
+  line-height: 3rem;
+}
+
+
+.title3 {
+  color: #ff8961;
+}
+
+.accordian .card {
+  border-radius: 18PX;
+  background: none;
+  border-left-width: 0;
+  border-right-width: 0;
+  border: 1.8px solid #ff8961;
+  margin-top: 1rem;
+}
+
+.accordian .card .card-header {
+  background: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 0;
+}
+
+.accordian .card .card-header h2 {
+  font-size: 18px;
+  font-family: "Montserrat-heavy", sans-serif;
+  font-weight: 1000;
+  line-height: 1rem;
+  
+}
+
+.accordian .card-header .btn {
+  color: #000000;
+  width: 100%;
+  text-align: left;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.accordian .card-header i {
+  font-size: 1.2rem;
+  position: absolute;
+  top: 15px;
+  right: 1rem;
+}
+
+.accordian .card-body {
+  color: #000000;
+}
+
+/* connect */
+
+#connect {
+  background-color: #1c1614;
+  padding-bottom: 2.5rem;
+}
+
+.heading4 h1 {
+  padding-top: 1rem;
+  font-weight: 500;
+  line-height: 5rem;
+}
+
+
+.input {
+  background-color: #1c1614;
+  color: #ff8961;
+}
+
+.connect-title1 {
+  color: #ffffff;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+.connect-title2 {
+  color: #ff8961;
+  margin-top: -0.5rem;
+}
+
+
+.download-button {
+  margin-top: 1rem;
+  background-color: #ff8961;
+  color: #ffffff;
+  width: 200px;
+}
+
+hr {
+  border:  solid #ff8961 .6px ;
+  margin-top: auto;
+  margin-bottom: auto;
+  stroke-width:2;
+  background-color: #ff8961 ;
+
+}
+
+.hr2 {
+  border:  solid #ff8961 .6px ;
+  margin-top: -2rem;
+  margin-bottom: auto;
+  stroke-width:2;
+  background-color: #ff8961 ;
+
+
+}
+
+
+/* Contact */
+
+#contact {
+  background-color: #1c1614;
+
+
+}
+
+.contact-title1 {
+  color: #ffffff;
+
+}
+
+
+
+.list {
+  color: #ffffff;
+  list-style: none;
+  padding-top: 1.2rem;
+
+}
+
+.footer-img {
+  width: 600px;
+  height: auto;
+}
+
+/* card Hover */
+
+
+
+/* .card h3 {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+} */
+
+ /* .cont{
+    width: 90%;
+    height: 0;
+    overflow: hidden;
+    text-align: center;
+    transition: all 0.6s ease;
+}
+
+.card .cont .link i{
+    font-size: 25px;
+    color: rgb(82, 82, 82);
+    transition: all 0.2s ease;
+}
+
+.card .cont .link i:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.card:hover > .cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    height: 220px;
+}
+
+.card:hover > .link{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+} */
